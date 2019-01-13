@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed May 09 00:52:17 CEST 2007
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Gestion_materiel_informatique_fat.jar
+manifest.mergeall=true
+manifest.mainclass=forms.MainForm
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
